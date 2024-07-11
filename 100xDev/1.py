@@ -1,0 +1,1 @@
+print("Welcome to 75 Hard Challenge")
